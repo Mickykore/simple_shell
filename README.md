@@ -1,6 +1,7 @@
 # 0x16. C-Simple Shell
 
-## group project 
+## group project with Mickykore and Aggie05
+
 
 ## Description
 hsh is a simple UNIX command language interpreter that reads commands from either a file or standar
